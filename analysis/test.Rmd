@@ -29,6 +29,8 @@ plot(pressure)
 ```{r}
 plot(cars$speed)
 print("some text")
+
+print("some more text")
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
